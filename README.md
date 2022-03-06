@@ -17,6 +17,9 @@
   <br>
   🔬 I'm currently pursuing my bachelor's degree and am in my Pre-Final Year.
   <br>
+  🔬 I am also a Mentee Under A Pro-Bono Mentorship Program For Collegiate Women in Technology named Codess.Cafe <br> and was also
+  a part Of Winter Mentorship Program 2.0 under UAceIt.
+  <br>
   💻 I love converting my thoughts into code and learn anything related to it.
   <br>
   📚 I’m currently learning Machine Learning and am inclined and interested towards Software Fields like Artificial Intelligence and Computer Vision.
@@ -25,7 +28,7 @@
 </p>
 
 <hr>
-<h2 align="left">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
   <code><img title="C" height="25" src="images/c.svg"></code>
