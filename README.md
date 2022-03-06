@@ -17,8 +17,8 @@
   <br>
   🔬 I'm currently pursuing my bachelor's degree and am in my Pre-Final Year.
   <br>
-  🔬 I am also a Mentee Under A Pro-Bono Mentorship Program For Collegiate Women in Technology named Codess.Cafe <br> and was also
-  a part Of Winter Mentorship Program 2.0 under UAceIt.
+  🔬 I am also a Mentee Under A Pro-Bono Mentorship Program For Collegiate Women in Technology named Codess.Cafe (September 2021 - Present) <br> and was also
+  a part Of Winter Mentorship Program 2.0 under UAceIt (December 2021 - February 2022).
   <br>
   💻 I love converting my thoughts into code and learn anything related to it.
   <br>
@@ -28,7 +28,7 @@
 </p>
 
 <hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<h1 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h1>
 <br>
 <p align="center">
   <code><img title="C" height="25" src="images/c.svg"></code>
@@ -50,7 +50,7 @@
 </p>
 <hr>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h1 align="center">⚡ Stats ⚡</h1>
 <br>
 <p align=center>
   <div align=center>
@@ -73,7 +73,7 @@
 
 <hr>
 
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
+<h1 align="center">👨‍💻 Repositories 👨‍💻</h1>
 <br>
 <div width="100%" align="center">
   <a align="left" href="https://github.com/ss-shrishi2000/Seismic_Data_Visualizer" title="Seismic Data Visualizer"><img align="left" height="115" src="https://github-readme-stats.vercel.app/api/pin/?username=ss-shrishi2000&repo=Seismic_Data_Visualizer&theme=react&border_color=61dafb&border_radius=10"></a>
