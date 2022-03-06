@@ -1,16 +1,13 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=zumrudu-anka.zumrudu-anka">
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Shrishti+Singh....;Nice+to+meet+you!&center=true&size=30">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Shrishti....;Nice+to+meet+you!&center=true&size=30">
   </a>
 </h1>
 
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/singhshrishti222/" title="LinkedIn Profile"><img width="22" src="images/linkedin.svg"> LinkedIn</a></code>
- <!--- <code><a href="https://stackoverflow.com/users/12578260/osman-durdag" title="Stack Overflow Profile"><img width="22" src="images/stackoverflow.svg"> Stack Overflow</a></code>
- <!--- <code><a href="https://www.instagram.com/osman__durdag/" title="Instagram Profile"><img width="22" src="images/instagram.svg"> Instagram</a></code>
+    <a href="https://www.linkedin.com/in/singhshrishti222/" title="LinkedIn Profile"><img width="60" src="images/linkedin.svg"> LinkedIn</a></code>
  
 </h5>
 <br>
@@ -22,13 +19,13 @@
   <br>
   💻 I love converting my thoughts into code and learn anything related to it.
   <br>
-  📚 I’m currently learning Machine Learning and am interested towards Fields like Artificial Intelligence and Computer Vision.
+  📚 I’m currently learning Machine Learning and am inclined and interested towards Software Fields like Artificial Intelligence and Computer Vision.
   <br>
   📫 How to reach me: <a href="mailto: shrishtisingh0441@gmail.com">Email</a>
 </p>
 
 <hr>
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
+<h2 align="left">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
 <br>
 <p align="center">
   <code><img title="C" height="25" src="images/c.svg"></code>
@@ -55,10 +52,10 @@
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=ss-shrishi2000&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+      <img align="left" width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=ss-shrishi2000&theme=react&border=61dafb&hide_border=true" alt="ss-shrishi2000" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=390 src="https://github-readme-stats.vercel.app/api?username=ss-shrishi2000&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align="right" width=400 src="https://github-readme-stats.vercel.app/api?username=ss-shrishi2000&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
@@ -102,25 +99,3 @@
 <h4 align="center">
   <a href="https://github.com/ss-shrishi2000?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
 </h4>
-
-
-<!--
-**zumrudu-anka/zumrudu-anka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-
-Notes: If you want use this readme, firstly star it please. If you can't align your repositories like this, please change your repository desription to shorter than now. Maybe 4 or 5 word will be good.
-
-![Metrics](https://metrics.lecoq.io/zumrudu-anka?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Europe%2FIstanbul)
-
--->
