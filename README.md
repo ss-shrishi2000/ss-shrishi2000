@@ -19,6 +19,7 @@
   <br>
   🔬 I am also a Mentee Under A Pro-Bono Mentorship Program For Collegiate Women in Technology named Codess.Cafe (September 2021 - Present) <br> and was also
   a part Of Winter Mentorship Program 2.0 under UAceIt (December 2021 - February 2022).
+  <br> 🔬 I am also a Member Of The Women TechMakers (WTM) Community By Google since September 2021.
   <br>
   💻 I love converting my thoughts into code and learn anything related to it.
   <br>
