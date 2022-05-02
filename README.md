@@ -10,11 +10,8 @@
     <a href="https://www.linkedin.com/in/singhshrishti222/" title="LinkedIn Profile"><img width="60" src="images/linkedin.svg"> LinkedIn</a></code>
  
 </h5>
-<br>
-<p align="center">
-  Hi, I'm Shrishti Singh, A Software Development Enthusiast And A Passionate Problem-Solver.
-  <br>
-  <br>
+<p align="left">
+    <h2> Hi there, <br> I'm Shrishti Singh, A Software Development Enthusiast And A Passionate Problem-Solver. </h2>
   🔬 I'm currently pursuing my bachelor's degree and am in my Pre-Final Year.
   <br>
   🔬 I am also a Mentee Under A Pro-Bono Mentorship Program For Collegiate Women in Technology named Codess.Cafe (September 2021 - Present) <br> and was also
@@ -29,25 +26,25 @@
 </p>
 
 <hr>
-<h1 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h1>
+<h2 align='center'><i>Languages and Tools</i></h2>
 <br>
 <p align="center">
-  <code><img title="C" height="25" src="images/c.svg"></code>
-  <code><img title="C++" height="25" src="images/cpp.svg"></code>
-  <code><img title="Python" height="25" src="images/python-original.svg"></code>
-  <code><img title="Javascript" height="25" src="images/javascript.svg"></code>
-  <code><img title="Problem Solving" height="25" src="images/problemSolving.png"></code>
-  <code><img title="HTML5" height="25" src="images/html5.svg"></code>
-  <code><img title="CSS" height="25" src="images/css.svg"></code>
-  <code><img title="SASS" height="25" src="images/sass.svg"></code>
-  <code><img title="React" height="25" src="images/react-original.svg"></code>
-  <code><img title="Git" height="25" src="images/git-original.svg"></code>
-  <code><img title="Visual Studio Code" height="25" src="images/vscode.png"></code>
-  <code><img title="Microsoft Visual Studio" height="25" src="images/visualstudio.png"></code>
-  <code><img title="JSON" height="25" src="images/json.svg"></code>
-  <code><img title="GitHub" height="25" src="images/github.svg"></code>
-  <code><img title="MySQL" height="25" src="images/mysql.svg"></code>
-  <code><img title="npm" height="25" src="images/npm.svg"></code>
+  <code><img title="C" height="65" src="images/c.svg"></code>
+  <code><img title="C++" height="65" src="images/cpp.svg"></code>
+  <code><img title="Python" height="65" src="images/python-original.svg"></code>
+  <code><img title="Javascript" height="65" src="images/javascript.svg"></code>
+  <code><img title="Problem Solving" height="65" src="images/problemSolving.png"></code>
+  <code><img title="HTML5" height="65" src="images/html5.svg"></code>
+  <code><img title="CSS" height="65" src="images/css.svg"></code>
+  <code><img title="SASS" height="65" src="images/sass.svg"></code>
+  <code><img title="React" height="65" src="images/react-original.svg"></code>
+  <code><img title="Git" height="65" src="images/git-original.svg"></code>
+  <code><img title="Visual Studio Code" height="65" src="images/vscode.png"></code>
+  <code><img title="Microsoft Visual Studio" height="65" src="images/visualstudio.png"></code>
+  <code><img title="JSON" height="65" src="images/json.svg"></code>
+  <code><img title="GitHub" height="65" src="images/github.svg"></code>
+  <code><img title="MySQL" height="65" src="images/mysql.svg"></code>
+  <code><img title="npm" height="65" src="images/npm.svg"></code>
 </p>
 <hr>
 
