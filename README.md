@@ -48,7 +48,7 @@
 </p>
 <hr>
 
-<h1 align="center">⚡ Stats ⚡</h1>
+<h2 align="center"> <i> Github Stats </i> </h2>
 <br>
 <p align=center>
   <div align=center>
