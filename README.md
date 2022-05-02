@@ -5,11 +5,7 @@
   </a>
 </h1>
 
-<h5 align="center">
-  <code>
-    <a href="https://www.linkedin.com/in/singhshrishti222/" title="LinkedIn Profile"><img width="60" src="images/linkedin.svg"> LinkedIn</a></code>
- 
-</h5>
+
 <p align="left">
     <h2> Hi there, <br> I'm Shrishti Singh, A Software Development Enthusiast And A Passionate Problem-Solver. </h2>
   🔬 I'm currently pursuing my bachelor's degree and am in my Pre-Final Year.
@@ -24,6 +20,12 @@
   <br>
   📫 How to reach me: <a href="mailto: shrishtisingh0441@gmail.com">Email</a>
 </p>
+
+
+<h5 align="left">
+  <code>
+    <a href="https://www.linkedin.com/in/singhshrishti222/" title="LinkedIn Profile"><img width="60" src="images/linkedin.svg"> LinkedIn</a></code>
+</h5>
 
 <hr>
 <h2 align='center'><i>Languages and Tools</i></h2>
