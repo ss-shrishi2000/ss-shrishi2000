@@ -22,7 +22,7 @@
 </p>
 
 
-<h5 align="left">
+<h5 align="center">
   <code>
     <a href="https://www.linkedin.com/in/singhshrishti222/" title="LinkedIn Profile"><img width="60" src="images/linkedin.svg"> LinkedIn</a></code>
 </h5>
