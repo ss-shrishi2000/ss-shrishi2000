@@ -7,7 +7,7 @@
 
 
 <p align="left">
-    <h2> Hi there, <br> I'm Shrishti Singh, A Software Development Enthusiast And A Passionate Problem-Solver. </h2>
+    <h1> Hi there, <br> I'm Shrishti Singh, A Software Development Enthusiast And A Passionate Problem-Solver. </h2>
   🔬 I'm currently pursuing my bachelor's degree and am in my Pre-Final Year.
   <br>
   🔬 I am also a Mentee Under A Pro-Bono Mentorship Program For Collegiate Women in Technology named Codess.Cafe (September 2021 - Present) <br> and was also
