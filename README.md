@@ -7,13 +7,13 @@
 
 
 -  💻 I'm currently pursuing my bachelor's degree and am in my Pre-Final Year.
-- 🔭 I’m currently working on Problem Solving.
-- 🔬 I was also a Mentee Under A Pro-Bono Mentorship Program For Collegiate Women in Technology named Codess.Cafe (September 2021 - March 2022)
+- 🔭 I’m currently working on improving my Problem Solving Skill.
+- 🔬 I was a Mentee in the past under A Pro-Bono Mentorship Program For Collegiate Women in Technology named Codess.Cafe (September 2021 - March 2022)
 - 🔬 I was also a part Of Winter Mentorship Program 2.0 under UAceIt (December 2021 - February 2022).
 -  🔬I am also a Member Of The Women TechMakers (WTM) Community By Google since September 2021.
 - 🌱 I love converting my thoughts into code and learn anything related to it.
 - 👯 I’m looking to collaborate on Building amazing Technical Stuff ✨
-- I’m currently learning Machine Learning and am inclined and interested towards Software Fields like Artificial Intelligence and Computer Vision.
+- I’m currently exploring Machine Learning and am inclined and interested towards Software Fields like Artificial Intelligence and Computer Vision.
 - 💬 Ask me about Problem Solving...
 - 📫 How to reach me: <a href="mailto: shrishtisingh0441@gmail.com">Email</a>
 - 😄 Pronouns: She/Her
