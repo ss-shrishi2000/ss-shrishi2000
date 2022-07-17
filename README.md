@@ -17,7 +17,7 @@
 - 💬 Ask me about Problem Solving...
 - 📫 How to reach me: <a href="mailto: shrishtisingh0441@gmail.com">Email</a>
 - 😄 Pronouns: She/Her
-- ⚡ Fun fact: I am die-hard fan of Gal Gadot. ✨
+- ⚡ Fun fact: I am die-hard fan of Gal Gadot and my favourite hobby is Singing. ✨
  <!-- - 🤔 I’m looking for help with -->
  
  
