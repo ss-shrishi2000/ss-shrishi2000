@@ -26,7 +26,7 @@
 
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/singhshrishti222/" title="LinkedIn Profile"><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"> LinkedIn</a></code>
+    <a href="https://www.linkedin.com/in/singhshrish222/" title="LinkedIn Profile"><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"> LinkedIn</a></code>
 </h5>
 
 <h1 align = "center"> Languages And Tools </h1>
