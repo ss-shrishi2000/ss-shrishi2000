@@ -1,10 +1,9 @@
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Shrishti....;Nice+to+meet+you!&center=true&size=35">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋;This+is+Shrishti....;Nice+to+meet+you!&center=true&size=32">
   </a>
 </h1>
-
 
 -  💻 I'm currently pursuing my bachelor's degree and am in my Pre-Final Year.
 - 🔭 I’m currently working on improving my Problem Solving Skills.
@@ -27,33 +26,33 @@
 
 <h5 align="center">
   <code>
-    <a href="https://www.linkedin.com/in/singhshrishti222/" title="LinkedIn Profile"><img width="60" src="images/linkedin.svg"> LinkedIn</a></code>
+    <a href="https://www.linkedin.com/in/singhshrishti222/" title="LinkedIn Profile"><img width="50" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"> LinkedIn</a></code>
 </h5>
 
-<hr>
-<h2 align='center'><i>Languages and Tools</i></h2>
-<br>
-<p align="center">
-  <code><img title="C" height="65" src="images/c.svg"></code>
-  <code><img title="C++" height="65" src="images/cpp.svg"></code>
-  <code><img title="Python" height="65" src="images/python-original.svg"></code>
-  <code><img title="Javascript" height="65" src="images/javascript.svg"></code>
-  <code><img title="Problem Solving" height="65" src="images/problemSolving.png"></code>
-  <code><img title="HTML5" height="65" src="images/html5.svg"></code>
-  <code><img title="CSS" height="65" src="images/css.svg"></code>
-  <code><img title="SASS" height="65" src="images/sass.svg"></code>
-  <code><img title="React" height="65" src="images/react-original.svg"></code>
-  <code><img title="Git" height="65" src="images/git-original.svg"></code>
-  <code><img title="Visual Studio Code" height="65" src="images/vscode.png"></code>
-  <code><img title="Microsoft Visual Studio" height="65" src="images/visualstudio.png"></code>
-  <code><img title="JSON" height="65" src="images/json.svg"></code>
-  <code><img title="GitHub" height="65" src="images/github.svg"></code>
-  <code><img title="MySQL" height="65" src="images/mysql.svg"></code>
-  <code><img title="npm" height="65" src="images/npm.svg"></code>
-</p>
-<hr>
+<h1 align = "center"> Languages And Tools </h1>
 
-<h2 align="center"> <i> Github Stats </i> </h2>
+![image](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/Bootstrap-430098?style=for-the-badge&logo=bootstrap&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/Matplotlib-000000?style=for-the-badge&logo=matplotlib&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/Seaborn-000000?style=for-the-badge&logo=seaborn&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/Gensim-000000?style=for-the-badge&logo=gensim&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![image](https://img.shields.io/badge/GitHub-F9AB00?style=for-the-badge&logo=GitHub&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=Google%20Colab&logoColor=white)&nbsp;&nbsp;
+![image](https://img.shields.io/badge/Linux-F9AB00?style=for-the-badge&logo=Linux&logoColor=white)&nbsp;&nbsp;
+
+<h2 align="center"> Github Stats </h2>
 <br>
 <p align=center>
   <div align=center>
