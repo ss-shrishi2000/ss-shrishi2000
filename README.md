@@ -5,7 +5,7 @@
   </a>
 </h1>
 
--  💻 I'm currently pursuing my bachelor's degree and am in my Pre-Final Year.
+-  💻 I'm currently pursuing my bachelor's degree and am in my Final Year.
 - 🔭 I’m currently working on improving my Problem Solving Skills.
 - 🔬 I was a Mentee in the past under A Pro-Bono Mentorship Program For Collegiate Women in Technology named Codess.Cafe (September 2021 - March 2022)
 - 🔬 I was also a part Of Winter Mentorship Program 2.0 under UAceIt from December 2021 till February 2022.
