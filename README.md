@@ -22,7 +22,7 @@
  <br>
  <br>
  
-[![trophy](https://github-profile-trophy.vercel.app/?username=ss-shrishi2000&margin-w=50)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ss-shrishi2000&margin-w=50&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h5 align="center">
   <code>
